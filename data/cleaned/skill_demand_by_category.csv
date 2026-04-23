@@ -1,0 +1,11 @@
+skill_category,skill_name,skill_demand_percent
+technical,SQL,4.874446085672083
+technical,Machine Learning,3.61890694239291
+technical,Python,0.5908419497784343
+technical,Statistics,0.3692762186115214
+technical,R,0.3692762186115214
+tool,Power BI,5.612998522895126
+tool,Excel,2.363367799113737
+tool,Tableau,0.5908419497784343
+soft,Communication,16.54357459379616
+soft,Stakeholder,9.748892171344165

@@ -1,0 +1,10 @@
+metric,value
+total_regions_analyzed,12
+total_job_postings,4796
+avg_opportunity_score,63.7
+regions_with_ons_data,0
+scoring_formula,(vacancy_volume * 0.4) + (salary_avg * 0.4) + (yoy_growth * 0.2)
+top_region_name,London
+top_region_score,85.3
+top_region_vacancy_volume,2804
+top_region_avg_salary,58009.03

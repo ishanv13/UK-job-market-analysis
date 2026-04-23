@@ -1,0 +1,9 @@
+skill_name,job_count,skill_demand_percent,skill_category,role_category,total_jobs_in_role
+Stakeholder,92,8.24372759856631,soft,Other Analyst,1116
+Power BI,60,5.376344086021505,tool,Other Analyst,1116
+SQL,32,2.867383512544803,technical,Other Analyst,1116
+Excel,28,2.5089605734767026,tool,Other Analyst,1116
+Machine Learning,24,2.1505376344086025,technical,Other Analyst,1116
+R,16,1.4336917562724014,technical,Other Analyst,1116
+Communication,12,1.0752688172043012,soft,Other Analyst,1116
+Statistics,4,0.35842293906810035,technical,Other Analyst,1116

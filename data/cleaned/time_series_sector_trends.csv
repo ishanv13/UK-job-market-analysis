@@ -1,0 +1,5 @@
+role_category,trend_slope,correlation,total_change_percent,avg_weekly_jobs,total_jobs,weeks_analyzed,trend_direction,trend_strength
+Business Analyst,8.885,0.519,1800.0,45.5,1000,22,Growing,Moderate
+Data Analyst,5.221,0.631,2100.0,36.6,988,27,Growing,Moderate
+BI Analyst,2.036,0.868,400.0,10.4,104,10,Growing,Strong
+Other Analyst,1.0,0.273,0.0,9.1,64,7,Growing,Weak

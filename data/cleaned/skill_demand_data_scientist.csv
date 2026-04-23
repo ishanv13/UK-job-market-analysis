@@ -1,0 +1,7 @@
+skill_name,job_count,skill_demand_percent,skill_category,role_category,total_jobs_in_role
+Python,1,100.0,technical,Data Scientist,1
+Machine Learning,1,100.0,technical,Data Scientist,1
+Statistics,1,100.0,technical,Data Scientist,1
+Deep Learning,1,100.0,technical,Data Scientist,1
+TensorFlow,1,100.0,technical,Data Scientist,1
+Research,1,100.0,soft,Data Scientist,1

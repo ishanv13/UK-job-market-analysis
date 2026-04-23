@@ -1,0 +1,11 @@
+skill_name,job_count,skill_demand_percent,skill_category,role_category,total_jobs_in_role
+Communication,560,27.397260273972602,soft,Data Analyst,2044
+SQL,104,5.088062622309197,technical,Data Analyst,2044
+Stakeholder,100,4.892367906066536,soft,Data Analyst,2044
+Machine Learning,100,4.892367906066536,technical,Data Analyst,2044
+Excel,56,2.73972602739726,tool,Data Analyst,2044
+Power BI,44,2.152641878669276,tool,Data Analyst,2044
+Python,32,1.5655577299412915,technical,Data Analyst,2044
+Statistics,12,0.5870841487279843,technical,Data Analyst,2044
+Tableau,12,0.5870841487279843,tool,Data Analyst,2044
+R,4,0.19569471624266144,technical,Data Analyst,2044

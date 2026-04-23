@@ -1,0 +1,13 @@
+region,vacancy_volume,avg_salary,yoy_growth_percent,volume_score,salary_score,growth_score,opportunity_score,recent_jobs,older_jobs,ons_data_available
+London,2804,58009.03,255.17,100.0,63.3,100,85.3,1648,464,False
+Other,1364,40480.94,100.0,100.0,34.1,100,73.7,52,0,False
+South East,112,52852.68,0.0,70.9,54.8,100,70.3,0,0,False
+East Midlands,84,52042.62,0.0,66.6,53.4,100,68.0,0,0,False
+North West,124,44446.89,0.0,72.4,40.7,100,65.3,0,0,False
+Yorkshire and The Humber,80,41408.15,0.0,65.9,35.7,100,60.6,0,0,False
+West Midlands,92,40028.7,0.0,68.0,33.4,100,60.5,0,0,False
+North East,24,50027.17,0.0,48.3,50.0,100,59.3,0,0,False
+South West,44,44522.73,0.0,57.1,40.9,100,59.2,0,0,False
+Scotland,44,42272.73,0.0,57.1,37.1,100,57.7,0,0,False
+East of England,16,50375.0,0.0,42.5,50.6,100,57.2,0,0,False
+Wales,8,40581.5,0.0,33.0,34.3,100,46.9,0,0,False

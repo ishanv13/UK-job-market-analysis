@@ -1,0 +1,15 @@
+category,metric,value
+analysis_period,start_date,2023-12-28T00:00:00
+analysis_period,end_date,2026-04-22T00:00:00
+analysis_period,total_weeks,32
+analysis_period,total_months,13
+posting_volume,total_jobs,2164
+posting_volume,avg_weekly_jobs,67.6
+posting_volume,peak_weekly_jobs,876
+posting_volume,min_weekly_jobs,4
+posting_volume,avg_monthly_jobs,166.5
+trends,sectors_analyzed,4
+trends,growing_sectors,4
+trends,declining_sectors,0
+trends,stable_sectors,0
+trends,regions_analyzed,1

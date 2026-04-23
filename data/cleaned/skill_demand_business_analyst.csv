@@ -1,0 +1,8 @@
+skill_name,job_count,skill_demand_percent,skill_category,role_category,total_jobs_in_role
+Communication,308,17.782909930715935,soft,Business Analyst,1732
+Stakeholder,244,14.087759815242496,soft,Business Analyst,1732
+Machine Learning,60,3.4642032332563506,technical,Business Analyst,1732
+SQL,32,1.8475750577367205,technical,Business Analyst,1732
+Excel,24,1.3856812933025404,tool,Business Analyst,1732
+Power BI,24,1.3856812933025404,tool,Business Analyst,1732
+Tableau,4,0.23094688221709006,tool,Business Analyst,1732

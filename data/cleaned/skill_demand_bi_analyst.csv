@@ -1,0 +1,9 @@
+skill_name,job_count,skill_demand_percent,skill_category,role_category,total_jobs_in_role
+Power BI,172,33.85826771653544,tool,BI Analyst,508
+SQL,96,18.89763779527559,technical,BI Analyst,508
+Stakeholder,92,18.11023622047244,soft,BI Analyst,508
+Tableau,16,3.149606299212598,tool,BI Analyst,508
+Communication,16,3.149606299212598,soft,BI Analyst,508
+Excel,16,3.149606299212598,tool,BI Analyst,508
+Machine Learning,12,2.3622047244094486,technical,BI Analyst,508
+Statistics,4,0.7874015748031495,technical,BI Analyst,508
